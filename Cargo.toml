@@ -7,3 +7,8 @@ description = """
     UPYUN sdk for rust. The version 0.0.0 is just published as a placeholder. Please wait for the v0.1.0 comes out.
 """
 license = "MIT"
+
+[dependencies]
+chrono = "0.2.14"
+hyper = "0.5.2"
+rust-crypto = "0.2.31"
